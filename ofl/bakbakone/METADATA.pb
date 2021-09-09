@@ -15,7 +15,3 @@ fonts {
 subsets: "latin"
 subsets: "latin-ext"
 subsets: "menu"
-source {
-  repository_url: "https://github.com/googlefonts/bakbak.git"
-  commit: "e5d017474731395ca729bae4f43ff9cb61ff2df1"
-}
